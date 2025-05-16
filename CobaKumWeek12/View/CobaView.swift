@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CobaView: View {
     var body: some View {
-        Text("coba")
+        Text("siapa hayo")
     }
 }
 
